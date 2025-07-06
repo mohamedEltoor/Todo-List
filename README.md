@@ -25,10 +25,8 @@ A simple To-Do List web application built with React.
 - Managing UI state for filters and toggle all functionality
 
 ## 📂 How to run
-1. Clone the repository
-2. Run `npm install` to install dependencies
-3. Run `npm start` to start the development server
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+. Clone the repository
+https://mohamedeltoor.github.io/Todo-List/
 
 ---
 
