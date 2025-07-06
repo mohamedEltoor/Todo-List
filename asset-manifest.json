@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pokimon-App/static/css/main.07ef1117.css",
+    "main.js": "/Pokimon-App/static/js/main.f1cc71bb.js",
+    "static/js/453.da735b4c.chunk.js": "/Pokimon-App/static/js/453.da735b4c.chunk.js",
+    "static/media/logo.svg": "/Pokimon-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pokimon-App/index.html",
+    "main.07ef1117.css.map": "/Pokimon-App/static/css/main.07ef1117.css.map",
+    "main.f1cc71bb.js.map": "/Pokimon-App/static/js/main.f1cc71bb.js.map",
+    "453.da735b4c.chunk.js.map": "/Pokimon-App/static/js/453.da735b4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ef1117.css",
+    "static/js/main.f1cc71bb.js"
+  ]
+}
